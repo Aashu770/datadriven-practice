@@ -1,7 +1,8 @@
 SELECT
   event_type,
-  SUM(CASE WHEN STRFTIME('%w', event_timestamp) IN ('0','6') THEN 1 ELSE 0 END) AS weekend_count,
-  SUM(CASE WHEN STRFTIME('%w', event_timestamp) NOT IN ('0','6') THEN 1 ELSE 0 END ) AS weekday_count
-FROM event_data
-GROUP BY event_type
-ORDER BY weekend_count DESC
+  COUNT(CASE WHEN EXTRACT(DOW FROM event_timestamp) IN (0, 6) THEN event_id END) AS weekend_count,
+  COUNT(CASE WHEN EXTRACT(DOW FROM event_timestamp) IN (1, 2, 3, 4, 5) THEN event_id END) AS weekday_count
+FROM
+  event_data
+GROUP BY 1
+ORDER BY 2 DESC,1
