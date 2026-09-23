@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sheer_eagle_4489), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Weekend Warriors](./practice/sql/weekend-warriors) | SQL | Easy | 2026-07-18 |
 | [Buyers Who Never Browsed](./practice/sql/buyers-who-never-browsed) | SQL | Easy | 2026-07-17 |
 
 <!-- datadriven:index:end -->
