@@ -1,12 +1,8 @@
-WITH catalog_avg AS (
-    SELECT AVG(price) AS avg_price
-    FROM products
-)
 SELECT
     product_name,
     category,
     price,
-    ROUND(avg_price, 3) AS catalog_avg
-FROM products, catalog_avg      
-WHERE price > avg_price
+    ROUND((SELECT AVG(price) FROM products), 3) AS catalog_avg
+FROM products
+WHERE price > (SELECT AVG(price) FROM products)
 ORDER BY price DESC

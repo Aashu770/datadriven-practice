@@ -7,6 +7,6 @@
 | | |
 |---|---|
 | Solved | 2026-09-23 |
-| Query complexity | O(n log n) (optimal O(n²)) |
+| Query complexity | O(n²) |
 
 The accepted solution is in [`solution.sql`](./solution.sql).
