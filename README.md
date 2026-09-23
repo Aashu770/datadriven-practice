@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sheer_eagle_4489), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Above Average](./practice/sql/above-average) | SQL | Easy | 2026-09-23 |
 | [The Blind Spot](./practice/sql/the-blind-spot) | SQL | Medium | 2026-09-23 |
 | [The Ninety-Day Comeback](./practice/sql/the-ninety-day-comeback) | SQL | Hard | 2026-09-23 |
 | [30-Day Page View Counts](./practice/sql/30-day-page-view-counts) | SQL | Easy | 2026-09-23 |
