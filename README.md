@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sheer_eagle_4489), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [7-Check Rolling Average](./practice/sql/7-check-rolling-average) | SQL | Medium | 2026-09-24 |
 | [Cloud Cost Trend Analysis](./practice/sql/cloud-cost-trend-analysis) | SQL | Medium | 2026-09-24 |
 | [Bronze Medal](./practice/sql/bronze-medal) | SQL | Easy | 2026-09-24 |
 | [The Opening Run](./practice/sql/the-opening-run) | SQL | Easy | 2026-09-24 |
