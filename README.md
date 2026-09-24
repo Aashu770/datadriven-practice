@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sheer_eagle_4489), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Active Users With April Transactions](./practice/sql/active-users-with-april-transactions) | SQL | Easy | 2026-09-24 |
 | [7-Check Rolling Average](./practice/sql/7-check-rolling-average) | SQL | Medium | 2026-09-24 |
 | [Cloud Cost Trend Analysis](./practice/sql/cloud-cost-trend-analysis) | SQL | Medium | 2026-09-24 |
 | [Bronze Medal](./practice/sql/bronze-medal) | SQL | Easy | 2026-09-24 |
