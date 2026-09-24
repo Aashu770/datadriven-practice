@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sheer_eagle_4489), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Active API Tokens](./practice/sql/active-api-tokens) | SQL | Easy | 2026-09-24 |
 | [Above Category Average](./practice/sql/above-category-average) | SQL | Easy | 2026-09-24 |
 | [The Row Count Surprise](./practice/sql/the-row-count-surprise) | SQL | Easy | 2026-09-23 |
 | [Average Spending by Account Status](./practice/sql/average-spending-by-account-status) | SQL | Medium | 2026-09-23 |
