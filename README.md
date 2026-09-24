@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sheer_eagle_4489), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Daily Error Count Change](./practice/sql/daily-error-count-change) | SQL | Medium | 2026-09-24 |
 | [Provider Cost Change H1](./practice/sql/provider-cost-change-h1) | SQL | Easy | 2026-09-24 |
 | [Metric Trend by Department](./practice/sql/metric-trend-by-department) | SQL | Easy | 2026-09-24 |
 | [Ad Clickers](./practice/sql/ad-clickers) | SQL | Easy | 2026-09-24 |
