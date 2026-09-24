@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sheer_eagle_4489), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Path Not Taken](./practice/sql/the-path-not-taken) | SQL | Hard | 2026-09-24 |
 | [Fault Lines](./practice/sql/fault-lines) | SQL | Medium | 2026-09-24 |
 | [DQ Score Spread](./practice/sql/dq-score-spread) | SQL | Medium | 2026-09-24 |
 | [Daily Error Count Change](./practice/sql/daily-error-count-change) | SQL | Medium | 2026-09-24 |
