@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sheer_eagle_4489), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Token Census](./practice/sql/the-token-census) | SQL | Easy | 2026-09-24 |
 | [Active Campaigns](./practice/sql/active-campaigns) | SQL | Easy | 2026-09-24 |
 | [Active API Tokens](./practice/sql/active-api-tokens) | SQL | Easy | 2026-09-24 |
 | [Above Category Average](./practice/sql/above-category-average) | SQL | Easy | 2026-09-24 |
