@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sheer_eagle_4489), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Error Severity Buckets](./practice/sql/error-severity-buckets) | SQL | Easy | 2026-09-26 |
 | [High-Rated In-Stock Percentage](./practice/sql/high-rated-in-stock-percentage) | SQL | Easy | 2026-09-26 |
 | [Present and Accounted For](./practice/sql/present-and-accounted-for) | SQL | Easy | 2026-09-26 |
 | [The Freshest Record](./practice/sql/the-freshest-record) | SQL | Medium | 2026-09-24 |
