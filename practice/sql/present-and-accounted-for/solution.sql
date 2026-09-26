@@ -1,16 +1,9 @@
-SELECT 
-products.product_name,
-COALESCE(
-SUM(
-CASE 
-WHEN products.category = 'Electronics' 
-THEN transactions.total_amount 
-ELSE 0 
-END
-), 0
-) AS electronics_total
-FROM products
-LEFT JOIN transactions 
-ON products.product_id = transactions.product_id
-GROUP BY products.product_id, products.product_name
-ORDER BY electronics_total DESC, products.product_name asc;
+SELECT
+  product_name,
+  COALESCE(SUM(CASE WHEN category= 'Electronics' THEN t.total_amount 
+ELSE 0 END),0) as electronics_total
+FROM products p
+LEFT JOIN transactions t
+ON p.product_id = t.product_id
+GROUP BY p.product_id, p.product_name
+ORDER BY 2 DESC,1
