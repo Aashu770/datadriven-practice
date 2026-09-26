@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sheer_eagle_4489), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Build Success Rate by Trigger](./practice/sql/build-success-rate-by-trigger) | SQL | Medium | 2026-09-26 |
 | [The Org Chart in Numbers](./practice/sql/the-org-chart-in-numbers) | SQL | Hard | 2026-09-26 |
 | [Balance of Arms](./practice/sql/balance-of-arms) | SQL | Hard | 2026-09-26 |
 | [Then and Now](./practice/sql/then-and-now) | SQL | Hard | 2026-09-26 |
