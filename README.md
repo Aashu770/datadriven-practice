@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sheer_eagle_4489), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Alert Response Breakdown](./practice/sql/alert-response-breakdown) | SQL | Medium | 2026-09-26 |
 | [Error Severity Buckets](./practice/sql/error-severity-buckets) | SQL | Easy | 2026-09-26 |
 | [High-Rated In-Stock Percentage](./practice/sql/high-rated-in-stock-percentage) | SQL | Easy | 2026-09-26 |
 | [Present and Accounted For](./practice/sql/present-and-accounted-for) | SQL | Easy | 2026-09-26 |
