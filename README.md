@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sheer_eagle_4489), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Model Training Completion Rate](./practice/sql/model-training-completion-rate) | SQL | Medium | 2026-09-26 |
 | [Alert Response Breakdown](./practice/sql/alert-response-breakdown) | SQL | Medium | 2026-09-26 |
 | [Error Severity Buckets](./practice/sql/error-severity-buckets) | SQL | Easy | 2026-09-26 |
 | [High-Rated In-Stock Percentage](./practice/sql/high-rated-in-stock-percentage) | SQL | Easy | 2026-09-26 |
