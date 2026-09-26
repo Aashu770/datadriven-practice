@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sheer_eagle_4489), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [10 Lowest Uptime Services](./practice/sql/10-lowest-uptime-services) | SQL | Medium | 2026-09-26 |
 | [Yesterday's Crown](./practice/sql/yesterday-s-crown) | SQL | Hard | 2026-09-26 |
 | [Proof of Presence](./practice/sql/proof-of-presence) | SQL | Medium | 2026-09-26 |
 | [Build Success Rate by Trigger](./practice/sql/build-success-rate-by-trigger) | SQL | Medium | 2026-09-26 |
