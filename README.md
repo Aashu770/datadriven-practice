@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sheer_eagle_4489), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Present and Accounted For](./practice/sql/present-and-accounted-for) | SQL | Easy | 2026-09-26 |
 | [The Freshest Record](./practice/sql/the-freshest-record) | SQL | Medium | 2026-09-24 |
 | [Chain of Command](./practice/sql/chain-of-command) | SQL | Hard | 2026-09-24 |
 | [The Path Not Taken](./practice/sql/the-path-not-taken) | SQL | Hard | 2026-09-24 |
