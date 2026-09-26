@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sheer_eagle_4489), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Then and Now](./practice/sql/then-and-now) | SQL | Hard | 2026-09-26 |
 | [Above the Fold](./practice/sql/above-the-fold) | SQL | Hard | 2026-09-26 |
 | [Long Messages](./practice/sql/long-messages) | SQL | Medium | 2026-09-26 |
 | [Model Training Completion Rate](./practice/sql/model-training-completion-rate) | SQL | Medium | 2026-09-26 |
