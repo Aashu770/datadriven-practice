@@ -17,7 +17,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sheer_eagle_4489), committ
 | [Balance of Arms](./practice/sql/balance-of-arms) | SQL | Hard | 2026-09-26 |
 | [Then and Now](./practice/sql/then-and-now) | SQL | Hard | 2026-09-26 |
 | [Above the Fold](./practice/sql/above-the-fold) | SQL | Hard | 2026-09-26 |
-| [Long Messages](./practice/sql/long-messages) | SQL | Hard | 2026-09-26 |
+| [Long Messages](./practice/sql/long-messages) | SQL | Medium | 2026-09-26 |
 | [The Runs That Never Ended](./practice/sql/the-runs-that-never-ended) | SQL | Medium | 2026-09-26 |
 | [Alert Response Breakdown](./practice/sql/alert-response-breakdown) | SQL | Medium | 2026-09-26 |
 | [Error Severity Buckets](./practice/sql/error-severity-buckets) | SQL | Easy | 2026-09-26 |
