@@ -45,7 +45,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sheer_eagle_4489), committ
 | [The Row Count Surprise](./practice/sql/the-row-count-surprise) | SQL | Easy | 2026-09-23 |
 | [Average Spending by Account Status](./practice/sql/average-spending-by-account-status) | SQL | Medium | 2026-09-23 |
 | [User Session Roster](./practice/sql/user-session-roster) | SQL | Easy | 2026-09-23 |
-| [Above Average Interactions](./practice/sql/above-average-interactions) | SQL | Medium | 2026-09-23 |
+| [Above Average Interactions](./practice/sql/above-average-interactions) | SQL | Easy | 2026-09-23 |
 | [Above Average](./practice/sql/above-average) | SQL | Easy | 2026-09-23 |
 | [The Blind Spot](./practice/sql/the-blind-spot) | SQL | Medium | 2026-09-23 |
 | [The Ninety-Day Comeback](./practice/sql/the-ninety-day-comeback) | SQL | Hard | 2026-09-23 |
