@@ -35,7 +35,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sheer_eagle_4489), committ
 | [Activity Histogram](./practice/sql/activity-histogram) | SQL | Easy | 2026-09-24 |
 | [Active Users With April Transactions](./practice/sql/active-users-with-april-transactions) | SQL | Easy | 2026-09-24 |
 | [7-Check Rolling Average](./practice/sql/7-check-rolling-average) | SQL | Medium | 2026-09-24 |
-| [Cloud Cost Trend Analysis](./practice/sql/cloud-cost-trend-analysis) | SQL | Medium | 2026-09-24 |
+| [Cloud Cost Trend Analysis](./practice/sql/cloud-cost-trend-analysis) | SQL | Easy | 2026-09-24 |
 | [Bronze Medal](./practice/sql/bronze-medal) | SQL | Easy | 2026-09-24 |
 | [The Opening Run](./practice/sql/the-opening-run) | SQL | Easy | 2026-09-24 |
 | [The Token Census](./practice/sql/the-token-census) | SQL | Easy | 2026-09-24 |
